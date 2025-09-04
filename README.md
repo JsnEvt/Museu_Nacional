@@ -53,5 +53,4 @@ O projeto é estático (não utiliza backend nem banco de dados).
 Foi construído como exercício prático de HTML5 e CSS3.
 
 ## 👨‍💻 Autor
-
-Projeto desenvolvido durante o curso de Desenvolvimento Web com Python e Django do professor Jamilton Damasceno na Udemy.
+Este projeto foi desenvolvido por **Jason Santos**, como parte das práticas do curso **Desenvolvimento Web com Python e Django** do professor Jamilton Damasceno (https://www.udemy.com/)
