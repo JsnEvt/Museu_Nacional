@@ -32,7 +32,7 @@ O projeto busca reproduzir uma página institucional fictícia para o **Museu Na
 
 ## Interface:
 <p align="center">
-   <img src="./img/index.png" alt="index" width="400">
+   <img src="./img/index.png" alt="index" width="1200">
 </p>
 
 ## Executando: 
